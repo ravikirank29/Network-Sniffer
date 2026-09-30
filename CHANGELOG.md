@@ -73,9 +73,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-**Project Maintainer**: Your Name  
+**Project Maintainer**: Ravi Kiran Kambhampati
 **License**: MIT License  
-**Website**: [GitHub Repository](https://github.com/Lite-os15/NetworkSniffer)
+**Website**: [GitHub Repository](https://github.com/ravikirank29/Network-Sniffer.git)
 
 ---
 
